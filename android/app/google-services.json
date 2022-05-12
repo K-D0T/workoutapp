@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "598986299850",
+    "project_id": "test-7b615",
+    "storage_bucket": "test-7b615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598986299850:android:83c29db5cd11e57a6d5733",
+        "android_client_info": {
+          "package_name": "com.flutterflow.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598986299850-cfksibhurpqtm9ct4b7rc0pf47cjjdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSk9bpIKdD5p2CDdseWzq7O2YmcIDRJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598986299850-cfksibhurpqtm9ct4b7rc0pf47cjjdil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598986299850-bui240emmg8f62bn7lasni78jr3mpo4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.news"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598986299850:android:b3ec9b53794277a36d5733",
+        "android_client_info": {
+          "package_name": "com.flutterflow.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598986299850-cfksibhurpqtm9ct4b7rc0pf47cjjdil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSk9bpIKdD5p2CDdseWzq7O2YmcIDRJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598986299850-cfksibhurpqtm9ct4b7rc0pf47cjjdil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598986299850-bui240emmg8f62bn7lasni78jr3mpo4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.news"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

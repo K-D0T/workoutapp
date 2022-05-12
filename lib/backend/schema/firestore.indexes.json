@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "sets",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "liftname",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "set",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
